@@ -2,12 +2,16 @@
 # -*- coding: utf-8 -*-
 
 import requests
+import codecs
 import xml.etree.ElementTree as ET
 
-feed = requests.get('https://gythialy.github.io/atom.xml').text
+r = requests.get('https://gythialy.github.io/atom.xml')
+r.encoding = 'utf-8'
+feed = r.text
+print(feed)
 root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
-with open('README.md', 'w') as f:
+with codecs.open('README.md', 'w', 'utf-8') as f:
     f.write(r'''
 ## Hi there 👋
 
