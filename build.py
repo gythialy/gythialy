@@ -8,7 +8,6 @@ import xml.etree.ElementTree as ET
 r = requests.get('https://gythialy.github.io/atom.xml')
 r.encoding = 'utf-8'
 feed = r.text
-print(feed)
 root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with codecs.open('README.md', 'w', 'utf-8') as f:
@@ -29,5 +28,5 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
     f.write('''
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
-![Goren's github stats](https://github-readme-stats.vercel.app/api?username=gythialy&count_private=true&show_icons=true)
+![Goren's github stats](https://shbpufenr8hhspv.vercel.app/api?username=gythialy&count_private=true&show_icons=true)
 ''')
