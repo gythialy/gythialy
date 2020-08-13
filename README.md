@@ -13,4 +13,4 @@
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
-![Goren's github stats](https://github-readme-stats.vercel.app/api?username=gythialy&count_private=true&show_icons=true)
+![Goren's github stats](https://shbpufenr8hhspv.vercel.app/api?username=gythialy&count_private=true&show_icons=true)
