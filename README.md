@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [@QLC Chain](https://github.com/qlcchain)
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
+- 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
 - 2020-09-04 [基于 openethereum 部署以太网节点](https://gythialy.github.io/deploy-ethereum-by-openethereum/)
