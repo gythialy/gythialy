@@ -14,7 +14,7 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
     f.write(r'''
 ## Hi there 👋
 
-- 🔭 I’m currently working on [@QLC Chain](https://github.com/qlcchain)
+- 🔭 I’m currently working on Golang and Nodejs
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
