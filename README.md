@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2021-04-15 [在 Ubuntu 中自动挂载 SMB 共享](https://gythialy.github.io/How-to-Mount-a-SMB-Share-in-Ubuntu/)
 - 2021-04-14 [区块链隐私交易](https://gythialy.github.io/blockchain-private-transaction/)
 - 2021-01-04 [穿越绝望之谷？](https://gythialy.github.io/cross-the-valley-of-despair/)
 - 2020-12-30 [macOS 引导 Windows To Go](https://gythialy.github.io/macos-boot-wtg/)
 - 2020-09-04 [基于 openethereum 部署以太网节点](https://gythialy.github.io/deploy-ethereum-by-openethereum/)
-- 2020-08-13 [自动更新 GitHub Profile](https://gythialy.github.io/self-updating-github-profile/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
