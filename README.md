@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on Golang and Nodejs
+- 🔭 I’m currently working on Java/Kotlin and Golang
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
