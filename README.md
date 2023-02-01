@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2023-02-01 [基于 ZeroTier 和 Openwrt 路由器的内网互联](https://gythialy.github.io/access-lan-from-remote-by-zerotier/)
 - 2022-10-09 [扩展 OpenWRT Overlay 分区](https://gythialy.github.io/expand-Overlay-for-OpenWrt/)
 - 2021-09-21 [在反向代理后部署 GitLab](https://gythialy.github.io/gitlab-behind-a-reverse-proxy/)
 - 2021-04-20 [远程调试 golang 应用](https://gythialy.github.io/How-to-remote-debug-golang-by-dlv/)
 - 2021-04-15 [在 Ubuntu 中自动挂载 SMB 共享](https://gythialy.github.io/How-to-Mount-a-SMB-Share-in-Ubuntu/)
-- 2021-04-14 [区块链隐私交易](https://gythialy.github.io/blockchain-private-transaction/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
