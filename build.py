@@ -33,7 +33,7 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <img width="55%" align="right" alt="Goren's github stats" src="https://shbpufenr8hhspv.vercel.app/api?username=gythialy&count_private=true&show_icons=true" />
+  <img width="55%" align="right" alt="Goren's github stats" src="https://github-readme-stats.vercel.app/api?username=gythialy&count_private=true&show_icons=true" />
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
