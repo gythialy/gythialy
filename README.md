@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2023-02-15 [Watchtower 通过 telegram 发通知](https://gythialy.github.io/watchtower-notify-by-telegram/)
+- 2023-02-15 [启用 Docker TCP 连接](https://gythialy.github.io/Enable-TCP-port-for-external-connection-to-Docker/)
 - 2023-02-07 [Fish 配置](https://gythialy.github.io/fish-config/)
 - 2023-02-07 [使用 sheldon 管理 Zsh 配置](https://gythialy.github.io/zsh-sheldon-config/)
 - 2023-02-01 [基于 ZeroTier 和 Openwrt 路由器的内网互联](https://gythialy.github.io/access-lan-from-remote-by-zerotier/)
-- 2022-10-09 [扩展 OpenWRT Overlay 分区](https://gythialy.github.io/expand-Overlay-for-OpenWrt/)
-- 2021-09-21 [在反向代理后部署 GitLab](https://gythialy.github.io/gitlab-behind-a-reverse-proxy/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
