@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2023-02-23 [部署私有 chatGPT Telegram 机器人](https://gythialy.github.io/deploy-own-telegram-chatgpt-bot/)
 - 2023-02-18 [使用 Antidote 管理 Zsh 配置](https://gythialy.github.io/zsh-antidote-config/)
 - 2023-02-17 [macOS 设置 GPG](https://gythialy.github.io/setup-gpg-on-macos/)
 - 2023-02-15 [Watchtower 通过 telegram 发通知](https://gythialy.github.io/watchtower-notify-by-telegram/)
 - 2023-02-15 [启用 Docker TCP 连接](https://gythialy.github.io/Enable-TCP-port-for-external-connection-to-Docker/)
-- 2023-02-07 [Fish 配置](https://gythialy.github.io/fish-config/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
