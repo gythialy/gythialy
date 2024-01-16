@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import requests
 import codecs
 import xml.etree.ElementTree as ET
+import requests
 
-r = requests.get('https://gythialy.github.io/atom.xml')
+r = requests.get("https://gythialy.github.io/atom.xml", timeout=10)
 r.encoding = 'utf-8'
 feed = r.text
 root = ET.fromstring(feed)
@@ -23,7 +23,7 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
         text = entry.find('nsfeed:title', nsfeed).text
         url = entry.find('nsfeed:link', nsfeed).attrib['href']
         published = entry.find('nsfeed:published', nsfeed).text[:10]
-        f.write('- {} [{}]({})\n'.format(published, text, url))
+        f.write(f"- {published} [{text}]({url})\n")
 
     f.write('''
 [>>> More blog posts](https://gythialy.github.io/)
