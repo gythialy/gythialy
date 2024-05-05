@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2024-05-05 [基于 asdf 管理多种运行时](https://gythialy.github.io/manage-multiple-runtimes-via-asdf/)
 - 2024-05-05 [Alacritty 与 Zellij 集成](https://gythialy.github.io/alacritty-and-zellij-intergration/)
 - 2024-01-16 [内网服务部署有效的 SSL 证书](https://gythialy.github.io/free-valid-SSL-certificates-for-homelab/)
 - 2023-12-04 [通过 docker 部署 wireguard 及其界面](https://gythialy.github.io/deploy-wireguard-with-ui-by-docker/)
 - 2023-02-23 [部署私有 chatGPT Telegram 机器人](https://gythialy.github.io/deploy-own-telegram-chatgpt-bot/)
-- 2023-02-18 [使用 Antidote 管理 Zsh 配置](https://gythialy.github.io/zsh-antidote-config/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
