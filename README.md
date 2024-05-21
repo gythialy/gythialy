@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2024-05-21 [基于 Cloudflare Tunnel 进行内网穿透](https://gythialy.github.io/expose-homelab-service-via-cloudflare-tunnel/)
 - 2024-05-08 [自动部署 Hexo 到 Github Pages](https://gythialy.github.io/deploy-hexo-via-github-action/)
 - 2024-05-07 [ohmyzsh 安装自定义插件和主题](https://gythialy.github.io/oh-my-zsh-with-custom-plugins/)
 - 2024-05-05 [基于 asdf 管理多种运行时](https://gythialy.github.io/manage-multiple-runtimes-via-asdf/)
 - 2024-05-05 [Alacritty 与 Zellij 集成](https://gythialy.github.io/alacritty-and-zellij-intergration/)
-- 2024-01-16 [内网服务部署有效的 SSL 证书](https://gythialy.github.io/free-valid-SSL-certificates-for-homelab/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
