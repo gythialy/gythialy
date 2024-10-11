@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning [Swift](https://swift.org/) and [Rust](https://github.com/rust-lang/rust)
 
 ## Latest blog posts
+- 2024-10-11 [Rust CLI 工具替代品](https://gythialy.github.io/awesome-alternatives-cli-in-rust/)
 - 2024-09-24 [使用 mise 管理开发运行时](https://gythialy.github.io/manage-dev-tools-by-mise/)
 - 2024-06-08 [基于 Cloudflare 的 Docker 代理](https://gythialy.github.io/cloudflare-docker-proxy/)
 - 2024-06-05 [从 ColorOS 镜像中提取 apk](https://gythialy.github.io/extract-apk-from-ColorOS-img/)
 - 2024-05-22 [在 macOS 平台把一加 12 ColorOS 转换为国际版](https://gythialy.github.io/howto-convert-from-ColorOS-to-Global-On-Chinese-Oneplus-12/)
-- 2024-05-21 [基于 Cloudflare Tunnel 进行内网穿透](https://gythialy.github.io/expose-homelab-service-via-cloudflare-tunnel/)
 
 [>>> More blog posts](https://gythialy.github.io/)
 ## Statistics
