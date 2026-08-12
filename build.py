@@ -33,10 +33,13 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
 The official github-readme-stats demo (github-readme-stats.vercel.app) is
 paused by Vercel, use github-profile-summary-cards instead:
 https://github.com/vn7n24fzkq/github-profile-summary-cards
+Light theme: github / dark theme: apprentice
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gythialy&amp;theme=apprentice" />
+  <img width="55%" align="right" alt="Goren's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gythialy&amp;theme=github" />
+</picture>
 <p>
-  <img width="55%" align="right" alt="Goren's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gythialy" />
-
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
