@@ -30,10 +30,12 @@ with codecs.open('README.md', 'w', 'utf-8') as f:
 ## Statistics
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+The official github-readme-stats demo (github-readme-stats.vercel.app) is
+paused by Vercel, use github-profile-summary-cards instead:
+https://github.com/vn7n24fzkq/github-profile-summary-cards
 -->
 <p>
-  <img width="55%" align="right" alt="Goren's github stats" src="https://github-readme-stats.vercel.app/api?username=gythialy&count_private=true&show_icons=true" />
+  <img width="55%" align="right" alt="Goren's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gythialy" />
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
