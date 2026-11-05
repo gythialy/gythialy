@@ -26,7 +26,7 @@
 
 | REPO | ABOUT | LANG | ★ |
 | :--- | :--- | :---: | ---: |
-| [golang-cross](https://github.com/gythialy/golang-cross) | golang cross compiler with CGO | `Shell` | 128 |
+| [golang-cross](https://github.com/gythialy/golang-cross) | golang cross compiler with CGO | `Shell` | 129 |
 | [j60870](https://github.com/gythialy/j60870) | j60870 is a library implementing the IEC 60870-5-104 communication standard. | `Java` | 93 |
 | [zerotier-one-moon](https://github.com/gythialy/zerotier-one-moon) | 🐳 A docker image to create ZeroTier moon in one step. | `Shell` | 45 |
 | [openmuc](https://github.com/gythialy/openmuc) | OpenMUC is a software framework based on Java and OSGi that simplifies the development of… | `Java` | 33 |
